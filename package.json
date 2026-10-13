@@ -1,0 +1,17 @@
+{
+  "name": "wat-sri-mongkol-mirror",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "scrape": "node scripts/scrape.js",
+    "normalize-paths": "node scripts/normalize-paths.js",
+    "serve": "npx http-server site -p 4173"
+  },
+  "dependencies": {
+    "playwright": "^1.63.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

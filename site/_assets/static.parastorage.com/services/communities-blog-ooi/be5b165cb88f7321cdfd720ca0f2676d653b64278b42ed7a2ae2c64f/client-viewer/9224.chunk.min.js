@@ -1,0 +1,2 @@
+"use strict";(("undefined"!=typeof self?self:this).webpackJsonp__wix_communities_blog_ooi=("undefined"!=typeof self?self:this).webpackJsonp__wix_communities_blog_ooi||[]).push([[9224],{19224(e,i,s){s.d(i,{createBiHelpers:()=>t});const t=async({appDefId:e,metaSiteId:i,biSettings:t,wixRicosVersion:o,ricosVersion:n})=>{const{biStrategy:c}=await s.e(2407).then(s.bind(s,54788));return c(e,i,o,n,t)}}}]);
+//# sourceMappingURL=9224.chunk.min.js.map
